@@ -6,7 +6,7 @@
 ---
 __Here's my profile on github.com:__
 
-[Yazan Baker's Github Profile](https://github.com/yazanbaker94) ![Yazan Baker](https://lh3.googleusercontent.com/x0UKNtJL_WaYipDFb237Qc7auhrCDEV1Qst00kSnmMWSuIyIS-u19i_LB4QmDdrgErN-zQ=s85)
+[Yazan Baker's Github Profile](https://github.com/yazanbaker94) ![Yazan Baker](https://i.ibb.co/WpV37T0/1.png)
 
 
 ---
