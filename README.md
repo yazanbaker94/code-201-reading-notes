@@ -14,7 +14,7 @@ __Here's my profile on github.com:__
 
 | Page Name        | LINK       |
 | ------------- |:-------------:|
-| X      | [X](X)|
+| Read: 01 - Introductory HTML and JavaScript      | [Introductory HTML and JavaScript](https://yazanbaker94.github.io/code-201-reading-notes/class-01)|
 | X      | [X](X)|
 | X      | [X](X)|
 | X      | [X](X)|
