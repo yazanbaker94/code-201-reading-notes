@@ -208,8 +208,9 @@ acronyms used, when given text is a quotation).
 <hr>
 
 <hr>
-## Chapter 10: Ch.10 “Introducing CSS” (pp.226-245)
 
+
+## Chapter 10
 The key to understanding how CSS works is to
 imagine that there is an invisible box around
 every HTML element.
