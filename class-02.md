@@ -488,3 +488,8 @@ if the coniditon seloves to false the second code block is run instead.
 
 
 
+BOOKS USED:
+
+HTML AND CSS:  https://wtf.tw/ref/duckett.pdf
+
+javascript and jquery interactive jon du
