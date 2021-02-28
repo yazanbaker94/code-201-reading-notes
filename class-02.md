@@ -316,3 +316,174 @@ although they may appear within an HTML page.
 
 
 
+
+
+A script is a series of instructions that a computer can follow one-by-one.
+Each individual instruction or step is known as a statement.
+Statements should end with a semicolon. 
+
+
+
+You should write comments to explain what your code does.
+They help make your code easier to read and understand.
+This can help you and others who read your code. 
+
+
+
+A script will have to temporarily
+store the bits of information it
+needs to do its job. It can store this
+data in variables.
+
+
+
+A variable is a good name for this
+concept because the data stored
+in a variable can change (or vary)
+each time a script runs. 
+
+
+JavaScript distinguishes between numbers,
+strings, and true or false values known as
+Booleans. 
+
+
+A Boolean variable can only have
+a value of true or fa 1 se, but this
+data type is very helpful.
+
+
+
+Once you have assigned a value
+to a variable, you can then
+change what is stored in the
+variable later in the same script.
+
+
+
+Here are six rules you must always follow when giving a variable a name: 
+1. The name must begin with
+a letter, dollar sign ($),or an
+underscore (_). It must not start
+with a number. 
+
+2. The name can contain letters,
+numbers, dollar sign ($), or an
+underscore (_). Note that you
+must not use a dash(-) or a
+period (.) in a variable name.
+
+3. You cannot use keywords or
+reserved words. Keywords
+are special words that tell the
+interpreter to do something. For
+example, var is a keyword used
+to declare a variable. Reserved
+words are ones that may be used
+in a future version of JavaScript.
+
+
+4. All variables are case sensitive,
+so score and Score would be
+different variable names, but
+it is bad practice to create two
+variables that have the same
+name using different cases.
+
+5. Use a name that describes the
+kind of information that the
+variable stores. For example,
+fi rstName might be used to
+store a person's first name,
+l astNarne for their last name,
+and age for their age.
+
+6. If your variable name is made
+up of more than one word, use a
+capital letter for the first letter of
+every word after the first word.
+For example, f i rstName rather
+than fi rstnarne (this is referred
+to as camel case). You can also
+use an underscore between each
+word (you cannot use a dash). 
+
+
+An array is a special type of variable. It doesn't
+just store one value; it stores a list of values. 
+
+
+        var colors;
+        colors ['white', 'black', ' custom'];
+        var el document.getElementByld('col ors');
+        el . textContent = col ors[O];  
+        
+Values in an array are accessed as if they are in
+a numbered list. It is important to know that the
+numbering of this list starts at zero (not one). 
+
+1. EXPRESSIONS THAT JUST ASSIGN A
+VALUE TO A VARIABLE
+
+2. EXPRESSIONS THAT USE TWO OR
+MORE VALUES TO RETURN A
+SINGLE VALUE 
+
+Expressions rely on things called operators; they allow programmers to
+create a single value from one or more values. 
+
+
+JavaScript contains the following mathematical
+operators, which you can use with numbers.
+You may remember some from math class. 
+
+
+
+There is just one string operator: the+ symbol.
+It is used to join the strings on either side of it. 
+
+
+
+<hr>
+
+<hr>
+
+
+<hr>
+
+
+
+In this example, there are two
+rounds to the test and the
+code will check if the user has
+achieved a new high score,
+beating the previous record. 
+
+
+
+        var scorel = 90;
+        var score2 = 95;
+        var highScorel 75;
+        var highScore2 = 95;
+        II Round 1 score
+        II Round 2 score
+        II Round 1 high score
+        II Round 2 high score
+        II Check if scores are higher than current high scores
+        var comparison= (score!+ score2) > (highScorel + highScore2);
+        II Write the message into the page
+        var el = document.getElementByid( 'answer');
+        el .textContent ='New high score:'+ comparison; 
+        
+        
+        
+the if statement evaluates a condition. if the condition evaluates to true, any statement in the subsequent code block are executed.
+
+
+the if...else statement checks a condition.
+
+If it resolves to true the first code block is executed,
+if the coniditon seloves to false the second code block is run instead.
+
+
+
