@@ -15,8 +15,8 @@ __Here's my profile on github.com:__
 | Page Name        | LINK       |
 | ------------- |:-------------:|
 | Read: 01 - Introductory HTML and JavaScript      | [class-01](https://yazanbaker94.github.io/code-201-reading-notes/class-01)|
-| Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions      | [class-01](https://yazanbaker94.github.io/code-201-reading-notes/class-02)|
-| X      | [X](X)|
+| Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions      | [class-02](https://yazanbaker94.github.io/code-201-reading-notes/class-02)|
+| Read: 03 - HTML Lists, CSS Boxes, JS Control Flow      | [class-03](https://yazanbaker94.github.io/code-201-reading-notes/class-03)|
 | X      | [X](X)|
 | X      | [X](X)|
 | X      | [X](X)|
