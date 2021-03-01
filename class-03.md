@@ -456,3 +456,10 @@ Data types can be coerced from one type to another.
 All values evaluate to either truthy or falsy.
 There are three types of loop: for, while, and
 do ... while. Each repeats a set of statements. 
+
+
+BOOKS USED:
+
+1. HTML AND CSS: https://wtf.tw/ref/duckett.pdf
+
+2. javascript and jquery interactive jon du
