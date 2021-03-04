@@ -19,7 +19,7 @@ element. This is an empty
 element (which means there is
 no closing tag). It must carry the
 following two attributes
-	src
+<code>src</code>
 This tells the browser where
 it can find the image file. This
 will usually be a relative URL
