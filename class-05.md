@@ -18,7 +18,7 @@ the site uses
 
 
 
-	<img>
+	img
 To add an image into the page
 you need to use an img
 element. This is an empty
