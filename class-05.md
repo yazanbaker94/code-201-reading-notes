@@ -15,12 +15,14 @@ the site uses
 
 	img
 
+
 To add an image into the page
 you need to use an img
 element. This is an empty
 element (which means there is
 no closing tag). It must carry the
-following two attributes:
+following two attributes
+
 
 	src
 This tells the browser where
@@ -42,14 +44,11 @@ user hovers over the image.
 
 	height
 This specifies the height of the
-image in pixels.
+image in pixels
 
 	width
 This specifies the width of the
 image in pixels.
-
-
-
 
 	align
 The align attribute was
@@ -61,26 +60,20 @@ and new websites should use
 CSS to control the alignment of
 images.
 
-
-
 	left
 This aligns the image to the left
 (allowing text to flow around its
 right-hand side).
-
 
 	right
 This aligns the image to the right
 (allowing text to flow around its
 left-hand side).
 
-
-
 	top
 This aligns the first line of the
 surrounding text with the top of
 the image
-
 
 
 	middle
@@ -171,7 +164,7 @@ a new figure element to
 contain images and their caption
 so that the two are associated.
 You can have more than one
-image inside the <figure>
+image inside the figure
 element as long as they all share
 the same caption.
 
@@ -391,7 +384,7 @@ a common source of confusion.
 It is not intended to allow you to
 vertically align text in the middle
 of block level elements such as
-<p> and <div>, although it does
+p and div, although it does
 have this effect when used with
 table cells (the td and th
 elements).
