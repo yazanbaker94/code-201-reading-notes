@@ -4,12 +4,9 @@ might want to include a logo, photograph,
 illustration, diagram, or chart.
 
 
-
-
 A picture can say a thousand words, and great
 images help make the difference between an
 average-looking site and a really engaging one.
-
 
 
 If you are building a site from scratch, it is good
@@ -41,7 +38,6 @@ about the image. Most browsers
 will display the content of this
 attribute in a tootip when the
 user hovers over the image.
-
 
 
 	height
@@ -106,7 +102,6 @@ summarized below. We go into greater detail
 on each topic over the next nine pages
 
 
-
 1. Save images inthe right format
 2. Save images atthe right size
 3. Use the correct
@@ -169,7 +164,6 @@ control key and click rather than right-click.)
 
 
 
-
 	figure
 Images often come with
 captions. HTML5 has introduced
@@ -183,16 +177,11 @@ the same caption.
 
 
 
-
 	figcaption
 The figcaption element has
 been added to HTML5 in order
 to allow web page authors to add
 a caption to an image.
-
-
-
-
 
 
 * The img element is used to add images to a
@@ -207,12 +196,7 @@ logos that use flat colors are better saved as GIFs.
 
 
 
-
-
-
-
 # Color can really bring your pages to life.
-
 
 
 1. rgb values
@@ -223,16 +207,13 @@ logos that use flat colors are better saved as GIFs.
 background-color
 
 
-
 Every color on a computer screen is created by mixing amounts of red,
 green, and blue. To find the color you want, you can use a color picker.
-
 
 
 * Hue
 * Saturation
 * Brightness
-
 
 
 
@@ -242,13 +223,9 @@ enough contrast for the text to be legible.
 
 
 
-
 CSS3 introduces an entirely new and intuitive
 way to specify colors using hue, saturation,
 and lightness values.
-
-
-
 
 
 * Color not only brings your site to life, but also helps
@@ -266,9 +243,7 @@ with an optional opacity value. It is known as HSLA.
 
 
 
-
 # Typeface Terminology
-
 
 
 1. Serif
@@ -288,7 +263,6 @@ only display it if it's
 installed on that
 user's computer.
 
-
 1. Monospace
 2. Cursive
 3. Fantasy
@@ -300,14 +274,9 @@ techniques you can choose from are limited by their respective licenses.
 
 
 
-
-
 If you design on a Mac, it is important to check what the typefaces look
 like on a PC because PCs can render type less smoothly. But if you design
 on a PC, then it should look fine on a Mac.
-
-
-
 
 
 The font-family property
@@ -315,8 +284,6 @@ allows you to specify the
 typeface that should be used for
 any text inside the element(s) to
 which a CSS rule applies.
-
-
 
 
 The font-size property enables
@@ -333,12 +300,9 @@ most common are:
 
 
 
-
 You may have noticed that programs such as
 Word, Photoshop and InDesign offer the same
 sizes of text.
-
-
 
 
 
@@ -386,12 +350,12 @@ this property can take:
 
 
 
-## 	text-transform
+## text-transform
 1. uppercase
 2. lowercase
 3. capitalize
 
-##	text-decoration
+## text-decoration
 
 1. none
 2. underline
@@ -400,10 +364,10 @@ this property can take:
 5. blink
 
 
-##	line-height
+## line-height
 
 
-##	letter-spacing, word-spacing 
+## letter-spacing, word-spacing 
 
 Kerning is the term
 typographers use for the space
@@ -414,14 +378,14 @@ property.
 
 
 
-##	text-align
+## text-align
 1. left
 2. right
 3. center
 4. justify
 
 
-## 	vertical-align
+## vertical-align
 The vertical-align property is
 a common source of confusion.
 It is not intended to allow you to
@@ -432,7 +396,7 @@ have this effect when used with
 table cells (the td and th
 elements).
 
-##	text-indent
+## text-indent
 
 The text-indent property
 allows you to indent the first
@@ -443,7 +407,7 @@ a number of ways but is usually
 given in pixels or ems.
 
 
-##	text-shadow
+## text-shadow
 
 The text-shadow property has
 become commonly used despite
@@ -451,7 +415,7 @@ lacking support in all browsers.
 
 
 
-##	:first-letter, :first-line
+## :first-letter, :first-line
 
 You can specify different values
 for the first letter or first line of
@@ -460,7 +424,7 @@ text inside an element using
 :first-line. 
 
 
-##	:link, :visited
+## :link, :visited
 
 
 Browsers tend to show links
@@ -471,7 +435,7 @@ visited to help users know which
 pages they have been to
 
 
-##	:hover, :active, :focus
+## :hover, :active, :focus
 
 1. :hover
 2. :active
@@ -479,7 +443,7 @@ pages they have been to
 
 
 
-###	TL;DR
+### TL;DR
 "Use JPEG format for all images that contain a natural scene or photograph where variation in colour and intensity is smooth. Use PNG format for any image that needs transparency or for images with text & objects with sharp contrast edges like logos. Use GIF format for images that contain animations."
 
 
