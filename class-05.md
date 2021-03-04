@@ -16,9 +16,8 @@ If you are building a site from scratch, it is good
 practice to create a folder for all of the images
 the site uses
 
-
-
 	img
+
 To add an image into the page
 you need to use an img
 element. This is an empty
