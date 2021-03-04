@@ -14,6 +14,7 @@ practice to create a folder for all of the images
 the site uses
 
 	img
+	
 To add an image into the page
 you need to use an img
 element. This is an empty
@@ -22,6 +23,7 @@ no closing tag). It must carry the
 following two attributes
 
 	src
+	
 This tells the browser where
 it can find the image file. This
 will usually be a relative URL
@@ -29,6 +31,7 @@ pointing to an image on your
 own site. 
 
 	title
+	
 You can also use the title
 attribute with the img element
 to provide additional information
@@ -38,14 +41,17 @@ attribute in a tootip when the
 user hovers over the image.
 
 	height
+	
 This specifies the height of the
 image in pixels
 
 	width
+	
 This specifies the width of the
 image in pixels.
 
 	align
+	
 The align attribute was
 commonly used to indicate how
 the other parts of a page should
@@ -56,26 +62,31 @@ CSS to control the alignment of
 images.
 
 	left
+	
 This aligns the image to the left
 (allowing text to flow around its
 right-hand side).
 
 	right
+	
 This aligns the image to the right
 (allowing text to flow around its
 left-hand side).
 
 	top
+	
 This aligns the first line of the
 surrounding text with the top of
 the image
 
 	middle
+	
 This aligns the first line of the
 surrounding text with the middle
 of the image.
 
 	bottom
+	
 This aligns the first line of the
 surrounding text with the bottom
 of the image.
