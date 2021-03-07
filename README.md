@@ -20,7 +20,7 @@ __Here's my profile on github.com:__
 | Read: 04 - HTML Links, CSS Layout, JS Functions      | [class-04](https://yazanbaker94.github.io/code-201-reading-notes/class-04)|
 | Read: 05 - HTML Images; CSS Color & Text      | [class-05](https://yazanbaker94.github.io/code-201-reading-notes/class-05)|
 | Read: 06 - JS Object Literals; The DOM      | [class-06](https://yazanbaker94.github.io/code-201-reading-notes/class-06)|
-| X      | [X](X)|
+| Read: 07 - HTML Tables; JS Constructor Functions      | [class-07](https://yazanbaker94.github.io/code-201-reading-notes/class-07)|
 | X      | [X](X)|
 | X      | [X](X)|
 | X      | [X](X)|
