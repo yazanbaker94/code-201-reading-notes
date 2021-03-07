@@ -231,4 +231,8 @@ BOOKS/LINKS USED:
 
 
 https://github.com/codefellows/domain_modeling#domain-modeling
+HTML AND CSS - DUCKETT
+javascript and jquery interactive jon du
+
+
 
