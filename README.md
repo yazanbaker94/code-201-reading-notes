@@ -22,7 +22,7 @@ __Here's my profile on github.com:__
 | Read: 06 - JS Object Literals; The DOM      | [class-06](https://yazanbaker94.github.io/code-201-reading-notes/class-06)|
 | Read: 07 - HTML Tables; JS Constructor Functions      | [class-07](https://yazanbaker94.github.io/code-201-reading-notes/class-07)|
 | Read: 08 - More CSS Layout    | [class-08](https://yazanbaker94.github.io/code-201-reading-notes/class-08)|
-| X      | [X](X)|
+| Read: 09 - Forms and Events      | [class-09](https://yazanbaker94.github.io/code-201-reading-notes/class-09)|
 | X      | [X](X)|
 | X      | [X](X)|
 | X      | [X](X)|
