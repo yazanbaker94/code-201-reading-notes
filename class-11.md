@@ -219,4 +219,57 @@ tools (to save you writing them from scratch).
 
 
 
+HTML5 video and audio
 
+The video and audio elements allow us to embed video and audio into web pages. As we showed in Video and audio content, a typical implementation looks like this:
+
+
+	<video controls>
+	<source src="rabbit320.mp4" type="video/mp4">
+	<source src="rabbit320.webm" type="video/webm">
+	<p>Your browser doesn't support HTML5 video. Here is a <a href="rabbit320.mp4">link to the video</a> instead.</p>
+	</video>
+
+
+
+Part of the HTML5 spec, the HTMLMediaElement API provides features to allow you to control video and audio players programmatically — for example HTMLMediaElement.play(), HTMLMediaElement.pause(), etc. This interface is available to both <audio> and <video> elements, as the features you'll want to implement are nearly identical. Let's go through an example, adding features as we go.
+
+
+
+
+
+Playing and pausing the video
+Let's implement probably the most important control — the play/pause button.
+
+First of all, add the following to the bottom of your code, so that the playPauseMedia() function is invoked when the play button is clicked:
+
+
+	play.addEventListener('click', playPauseMedia);
+
+
+Now to define playPauseMedia() — add the following, again at the bottom of your code:
+
+	function playPauseMedia() {
+	if(media.paused) {
+	play.setAttribute('data-icon','u');
+	media.play();
+	} else {
+	play.setAttribute('data-icon','P');
+	media.pause();
+	}
+	}
+
+
+
+
+
+Updating the elapsed time
+The very last piece of our media player to implement is the time elapsed displays. To do this we'll run a function to update the time displays every time the timeupdate event is fired on the <video> element. The frequency with which this event fires depends on your browser, CPU power, et
+
+
+
+
+LINKS/BOOKS USED:
+
+1. https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs#html5_video_and_audio
+2. HTML & CSS - DUCKETT
