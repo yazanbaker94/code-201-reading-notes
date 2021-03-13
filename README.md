@@ -24,7 +24,7 @@ __Here's my profile on github.com:__
 | Read: 08 - More CSS Layout    | [class-08](https://yazanbaker94.github.io/code-201-reading-notes/class-08)|
 | Read: 09 - Forms and Events      | [class-09](https://yazanbaker94.github.io/code-201-reading-notes/class-09)|
 | Read: 10 - JS Debugging      | [class-10](https://yazanbaker94.github.io/code-201-reading-notes/class-10)|
-| X      | [X](X)|
+| Read: 11 - Assorted Topics      | [class-11](https://yazanbaker94.github.io/code-201-reading-notes/class-11)|
 | X      | [X](X)|
 | X      | [X](X)|
 | X      | [X](X)|
