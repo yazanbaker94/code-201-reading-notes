@@ -25,7 +25,7 @@ __Here's my profile on github.com:__
 | Read: 09 - Forms and Events      | [class-09](https://yazanbaker94.github.io/code-201-reading-notes/class-09)|
 | Read: 10 - JS Debugging      | [class-10](https://yazanbaker94.github.io/code-201-reading-notes/class-10)|
 | Read: 11 - Assorted Topics      | [class-11](https://yazanbaker94.github.io/code-201-reading-notes/class-11)|
-| X      | [X](X)|
+| Read: 12 - Docs for the HTML <canvas> Element & Chart.js      | [class-12](https://yazanbaker94.github.io/code-201-reading-notes/class-12)|
 | X      | [X](X)|
 | X      | [X](X)|
 | X      | [X](X)|
