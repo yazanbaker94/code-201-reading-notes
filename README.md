@@ -26,6 +26,6 @@ __Here's my profile on github.com:__
 | Read: 10 - JS Debugging      | [class-10](https://yazanbaker94.github.io/code-201-reading-notes/class-10)|
 | Read: 11 - Assorted Topics      | [class-11](https://yazanbaker94.github.io/code-201-reading-notes/class-11)|
 | Read: 12 - Docs for the HTML <canvas> Element & Chart.js      | [class-12](https://yazanbaker94.github.io/code-201-reading-notes/class-12)|
-| X      | [X](X)|
+| Read: 13 - Local Storage      | [class-13](class-12](https://yazanbaker94.github.io/code-201-reading-notes/class-13)|
 | X      | [X](X)|
 | X      | [X](X)|
