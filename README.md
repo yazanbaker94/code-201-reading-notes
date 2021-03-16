@@ -28,4 +28,4 @@ __Here's my profile on github.com:__
 | Read: 12 - Docs for the HTML <canvas> Element & Chart.js      | [class-12](https://yazanbaker94.github.io/code-201-reading-notes/class-12)|
 | Read: 13 - Local Storage      | [class-13](https://yazanbaker94.github.io/code-201-reading-notes/class-13)|
 | Read: 14a - CSS Transforms, Transitions, and Animations      | [class-14a](https://yazanbaker94.github.io/code-201-reading-notes/class-14a)|
-| Read: 14b - What Google Learned About Teams     | [class-14b](class-14a](https://yazanbaker94.github.io/code-201-reading-notes/class-14b)|
+| Read: 14b - What Google Learned About Teams     | [class-14b](https://yazanbaker94.github.io/code-201-reading-notes/class-14b)|
